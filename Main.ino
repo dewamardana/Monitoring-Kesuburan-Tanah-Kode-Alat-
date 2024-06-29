@@ -24,7 +24,7 @@ const char* password = "12345678";
 String API_URL = "https://jchndtdkbmzgppgxpfio.supabase.co";
 String API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpjaG5kdGRrYm16Z3BwZ3hwZmlvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY4NzQ3MDQsImV4cCI6MjAzMjQ1MDcwNH0.WsZKLhMuQNy6ghqX_-kJdAmMobzAmb1wDO4POjNsFOI";
 String TableName = "data";
-Srtring ML = "Hasil"
+String ML = "Hasil";
 const int httpsPort = 5432;
 
 const char* supabase_url = "https://jchndtdkbmzgppgxpfio.supabase.co/rest/v1/Hasil?select=keterangan&order=id.desc&limit=1";
